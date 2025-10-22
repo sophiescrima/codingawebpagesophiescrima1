@@ -1,0 +1,49 @@
+#F5F0BA#F5F0BA#F5F0BA#F5F0BA@charset "utf-8";
+p {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+
+#heading .bbh-sans-hegarty-regular {
+  font-family: "BBH Sans Hegarty", sans-serif;
+  font-weight: 400;
+  font-style: Bold;
+	color: #FFB5CA }
+
+#heading {
+    font-family: 'Space Mono', monospace;
+    font-style: normal;
+    font-variant: normal;
+    color: #F5F0BA;
+    font-weight: bolder;
+    white-space: normal;
+    text-align: center;
+
+    font-size: 
+}
+
+#H2 {
+}
+
+h2 {
+    color: #FFB5CA;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.colored-section h2 {
+    color: #F5F0BA;
+    font-size: xx-large;
+}
+
+#H3 {
+    color: #F5F0BA;
+}
+#Body {
+    background-color: #F5F0BA;
+}
+#Footer {
+    background-color: #FFB5CA;
+    list-style-position: inside;
+
+	
